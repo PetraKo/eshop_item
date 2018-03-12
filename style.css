@@ -9,7 +9,7 @@ html { box-sizing: border-box; }
  barevny prechod nahore  #06d7c1
  barevny prechod dole    #50cc49
  zelena cara             #06d7c1
- oranzova                #f15f42
+ oranzova                #f15f42 
 
  PISMO
  Rubik - pouzite rezy pisma regular 400 a medium 500
@@ -28,6 +28,7 @@ body {
     width: 670px;
     height: 440px;
     margin: 200px 200px;
+    box-shadow: 5px 5px 5px #e6e6e3;
 }
 
 .vizual {
