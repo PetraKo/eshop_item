@@ -28,6 +28,7 @@ body {
     width: 670px;
     height: 440px;
     margin: 200px 200px;
+    /* dělat stín jako rgba - průhledné, ne jako rozmazaná konkrétní barva*/
     box-shadow: 5px 5px 5px #e6e6e3;
 }
 
